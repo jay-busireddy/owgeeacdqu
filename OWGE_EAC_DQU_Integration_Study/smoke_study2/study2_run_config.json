@@ -1,0 +1,15 @@
+{
+  "study": "Integrated Process Chain Study 2",
+  "preset": "smoke",
+  "seeds": [
+    992001,
+    992107,
+    992219
+  ],
+  "tasks_per_seed": 60,
+  "max_examples": 24,
+  "python": "3.12.13 | packaged by Anaconda, Inc. | (main, Jul  9 2026, 14:26:47) [MSC v.1942 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26100-SP0",
+  "numpy": "2.5.2",
+  "pandas": "3.0.5"
+}

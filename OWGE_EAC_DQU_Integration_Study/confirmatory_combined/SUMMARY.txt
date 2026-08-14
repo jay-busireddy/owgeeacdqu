@@ -1,0 +1,14 @@
+OWGE-EAC-DQU INTEGRATION CONFIRMATORY SUMMARY
+==========================================================================
+Multiplicity: ONE Holm family across all 10 prespecified primaries.
+
+A1_observation_ablation: treatment=4.045434, control=2.744749, diff=1.300686, 95%CI=[1.275119,1.326252], raw p=2.663e-68, global Holm p=1.598e-67, REJECT_H0
+A2_eac_ablation: treatment=4.045434, control=3.900237, diff=0.145197, 95%CI=[0.132028,0.158366], raw p=1.726e-30, global Holm p=3.453e-30, REJECT_H0
+A3_dqu_ablation: treatment=4.045434, control=3.816784, diff=0.228650, 95%CI=[0.215475,0.241825], raw p=2.831e-41, global Holm p=1.133e-40, REJECT_H0
+A4_full_vs_best_two_stage: treatment=4.045434, control=3.903390, diff=0.142045, 95%CI=[0.129811,0.154278], raw p=1.111e-31, global Holm p=3.332e-31, REJECT_H0
+A5_owge_eac_interaction: treatment=0.145197, control=0.007298, diff=0.137899, 95%CI=[0.116740,0.159058], raw p=2.495e-19, global Holm p=2.495e-19, REJECT_H0
+A6_adaptive_thought_budget: treatment=3.980727, control=3.821931, diff=0.158796, 95%CI=[0.157024,0.160568], raw p=9.254e-83, global Holm p=6.478e-82, REJECT_H0
+B1_delayed_priming_sample_efficiency: treatment=-6.413125, control=-14.797458, diff=8.384333, 95%CI=[8.323533,8.445134], raw p=8.640e-94, global Holm p=6.912e-93, REJECT_H0
+B2_tagged_vs_committed_recombination: treatment=-0.563082, control=-1.347407, diff=0.784325, 95%CI=[0.778811,0.789838], raw p=1.375e-94, global Holm p=1.238e-93, REJECT_H0
+B3_priming_early_learning_auc: treatment=0.857838, control=0.524657, diff=0.333180, 95%CI=[0.332014,0.334346], raw p=1.887e-112, global Holm p=1.887e-111, REJECT_H0
+B4_dqu_after_priming: treatment=3.473288, control=3.327979, diff=0.145309, 95%CI=[0.138410,0.152207], raw p=4.787e-46, global Holm p=2.393e-45, REJECT_H0
